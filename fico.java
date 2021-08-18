@@ -1,4 +1,3 @@
-//hi
 //package com.shubham.java.beginner;
 //import java.util.ArrayList;
 //import java.util.List;
